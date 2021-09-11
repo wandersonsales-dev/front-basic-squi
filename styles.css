@@ -1,3 +1,4 @@
 body {
-  background: #fff;
+  background: url('./assets/background.svg');
+  background-size: cover;
 }
